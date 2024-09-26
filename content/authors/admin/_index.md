@@ -176,5 +176,4 @@ awards:
 
 ## About Me
 
-''
 ---
