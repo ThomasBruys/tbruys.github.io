@@ -51,7 +51,7 @@ education:
   - area: Ph.D. Electrical and Computer Engineering
     institution: Georgia Institute of Technology
     date_start: 2024-01-01
-    date_end: -
+    date_end: ''
     summary: |
       Working on specializing LLMs for supply chain applications.
 
